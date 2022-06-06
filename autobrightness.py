@@ -1,7 +1,4 @@
 """
-Libraries:
-pip install screen-brightness-control
-
 Core Concept:
 1. Take a picture from camera.
 2. Analyze picture to determine the light level.
